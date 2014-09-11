@@ -1,0 +1,19 @@
+{
+  "name": "sauth-spotify",
+  "version": "0.0.1",
+  "description": "Spotify sauth strategy",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwerle/sauth-spotify.git"
+  },
+  "keywords": [ "Spotify", "sauth" ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "bugs": { "url": "https://github.com/jwerle/sauth-spotify/issues" },
+  "homepage": "https://github.com/jwerle/sauth-spotify",
+  "dependencies": {
+    "sauth": "0.0.3",
+    "superagent": "^0.18.2"
+  }
+}
